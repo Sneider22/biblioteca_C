@@ -52,6 +52,3 @@ FinAlgoritmo
 6. **Préstamo de Libros:** Opción (P)restar Libros.
 7. **Devolución de Libros:** Opción (R)ecibir Libros.
 
-### Conclusión 🎉
-
-La Biblioteca “Los Galpones” es un espacio vital para la comunidad, ofreciendo acceso a información y fomentando la cultura y el aprendizaje continuo. 🌍
