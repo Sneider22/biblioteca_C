@@ -51,4 +51,8 @@ FinAlgoritmo
 5. **Listado de Libros:** Opción (L)istar Registro de Libros.
 6. **Préstamo de Libros:** Opción (P)restar Libros.
 7. **Devolución de Libros:** Opción (R)ecibir Libros.
+   
+###
+
+Autor: Sneider Araque - 1er semestre (Lenguaje de Programación I)
 
