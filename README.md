@@ -2,7 +2,7 @@
 
 ## Descripción de la Institución
 
-La **Biblioteca “Los Galpones”** es una biblioteca pública cuyo principal objetivo es ser un lugar de encuentro y participación para los amantes de la lectura. 🌟
+La **Biblioteca “Los Galpones”** es una biblioteca pública cuyo principal objetivo es ser un lugar de encuentro y participación para los amantes de la lectura. 
 
 ### Ubicación y Horario 🕒
 
