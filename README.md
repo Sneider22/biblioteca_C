@@ -1,4 +1,4 @@
-# README - Biblioteca "Los Galpones" 📚
+# 📚 Biblioteca "Los Galpones" 
 
 ## Descripción de la Institución
 
@@ -54,5 +54,12 @@ FinAlgoritmo
    
 ###
 
-Autor: Sneider Araque - 1er semestre (Lenguaje de Programación I)
+---
+
+## 👤 Autor
+
+Sneider Araque - 1er semestre (Lenguaje de Programación I)
+
+---
+
 
