@@ -58,7 +58,7 @@ FinAlgoritmo
 
 ## 👤 Autor
 
-Sneider Araque - 1er semestre (Lenguaje de Programación I)
+Sneider Araque - 1er semestre 2021 (Lenguaje de Programación I)
 
 ---
 
